@@ -1,0 +1,8 @@
+Notes
+
+
+/* fazer a ligaão ainda com banco de dados usando o php(biblioteca usada no cerrolargo)
+/* carrossel de fundo com imagens(full hd de preferencia)
+/* fonte de hospedagem do site + SGBD
+/* menu de acessibilidade
+/* ajustar palheta de cores
